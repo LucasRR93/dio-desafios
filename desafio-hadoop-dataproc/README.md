@@ -4,7 +4,7 @@
 
 Repositório criado para o desafio "Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud Dataproc", da Digital Innovation One.
 
-Este desafio consiste em utilizar o Google Cloud Platform para criar um cluster e processar um job simples.
+Este desafio consiste em utilizar o Google Cloud Platform para criar um cluster e processar um job, utilizando um arquivo cedido pelo ministrante do curso. O resultado do processo gera um arquivo que está incluso neste repositório.
 
 <br>
 
